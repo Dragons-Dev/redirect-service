@@ -1,2 +1,2 @@
 # redirect-service
-A little redirect service we built with a little CRUD interface
+A little redirect service we built with a CRUD interface.
